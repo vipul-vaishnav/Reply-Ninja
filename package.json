@@ -1,0 +1,15 @@
+{
+  "name": "reply-ninja",
+  "version": "1.0.0",
+  "description": "comments app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "APP"
+  ],
+  "author": "vipul vaishnav",
+  "license": "MIT"
+}
