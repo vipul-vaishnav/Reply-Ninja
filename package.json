@@ -5,7 +5,10 @@
   "description": "comments app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "server": "nodemon ./server/server.js",
+    "start": "node ./server/server.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [
     "MERN",
