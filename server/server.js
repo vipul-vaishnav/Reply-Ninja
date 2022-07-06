@@ -30,7 +30,7 @@ app.use(express.json());
 
 // welcome
 app.get('/', (req, res) => {
-  res.status(200).json({ status: 'OK', message: 'Welcome to ReplyNinja!' });
+  res.status(200).json({ status: 'OK', message: 'Welcome to qomments!' });
 });
 
 // routes

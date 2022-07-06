@@ -5,7 +5,7 @@ const Main = () => {
   return (
     <main className="py-10 md:py-12">
       <h1 className="text-center text-5xl font-extrabold sm:text-6xl md:text-7xl md:leading-snug sm:leading-tight">
-        What's going in your mind?
+        What's going on in your mind?
       </h1>
       <p className="text-center text-xl font-bold my-8 sm:text-2xl md:text-4xl">
         Join <span className="text-tw-blue">qomments</span> today.
